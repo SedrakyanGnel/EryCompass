@@ -1,2 +1,2 @@
-module github.com/CyberCompass/querycompass
+module github.com/SedrakyanGnel/EryCompass
 go 1.21
